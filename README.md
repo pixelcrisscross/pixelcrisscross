@@ -1,154 +1,98 @@
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║           PIYUSH ANNIGERI — GITHUB PROFILE README               ║
-║     Space-Themed · Pac-Man Contributions · Live Widgets         ║
-╚══════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<!-- ══════════════════  HEADER BANNER  ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0015,30:0d0630,60:1a0533,100:0f0c29&height=220&section=header&text=PIYUSH%20ANNIGERI&fontSize=58&fontColor=e0d7ff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Space%20Enthusiast&descAlignY=62&descSize=17&animation=scaleIn&stroke=7c3aed&strokeWidth=2" width="100%" />
-
-<!-- ══════════════════  TYPING ANIMATION  ══════════════════ -->
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=%F0%9F%9B%B8+Architecting+multi-agent+AI+pipelines...;%F0%9F%93%9E+Building+real-time+voice+%26+telephony+agents...;%E2%98%81%EF%B8%8F+Deploying+on+Google+Cloud+%2F+Vertex+AI...;%F0%9F%94%AD+Running+the+Astronomy+Club+%40+VTU...;%F0%9F%8C%8C+BTech+AI+%26+Data+Science+%E2%80%94+VTU+Belagavi.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d1117&height=180&section=header&text=Piyush%20Annigeri&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Space%20Enthusiast&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- ══════════════════  CONTACT BADGES  ══════════════════ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushannigeri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/piyushannigeri)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-pixelcrisscross-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/pixelcrisscross)&nbsp;
-[![Email](https://img.shields.io/badge/Email-piyush.annigeri%40vtu.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:piyush.annigeri@vtu.ac.in)&nbsp;
-[![Location](https://img.shields.io/badge/Belagavi%2C_Karnataka-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)](https://maps.google.com/?q=Belagavi,Karnataka)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+multi-agent+AI+pipelines;Real-time+voice+%26+telephony+agents;Google+Cloud+%7C+Vertex+AI+%7C+FastAPI;BTech+AI+%26+Data+Science+%40+VTU)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pixelcrisscross&color=7c3aed&style=flat-square&label=Visitors+from+the+cosmos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushannigeri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushannigeri)
+[![GitHub](https://img.shields.io/badge/GitHub-pixelcrisscross-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pixelcrisscross)
+[![Email](https://img.shields.io/badge/Email-piyush.annigeri%40vtu.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:piyush.annigeri@vtu.ac.in)
+[![Location](https://img.shields.io/badge/Belagavi%2C_Karnataka-India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Belagavi,Karnataka)
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-```
- ██████╗  ██████╗  ██████╗  ██████╗ ███████╗    ███████╗██╗██╗     ███████╗
-██╔════╝ ██╔═══██╗██╔═══██╗██╔════╝ ██╔════╝    ██╔════╝██║██║     ██╔════╝
-██║  ███╗██║   ██║██║   ██║██║  ███╗███████╗    █████╗  ██║██║     █████╗  
-██║   ██║██║   ██║██║   ██║██║   ██║╚════██║    ██╔══╝  ██║██║     ██╔══╝  
-╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝███████║    ██║     ██║███████╗███████╗
- ╚═════╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝    ╚═╝     ╚═╝╚══════╝╚══════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=pixelcrisscross&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## ✦ MISSION BRIEF
-
-<table>
-<tr>
-<td>
+## About Me
 
 ```python
-# ─────────────────────────────────────────────────────────────
-#  ASTRONAUT FILE  ·  CLASSIFIED  ·  VTU BELAGAVI SECTOR
-# ─────────────────────────────────────────────────────────────
-
 class PiyushAnnigeri:
-    callsign     = "pixelcrisscross"
-    pronouns     = "he/him"
-    base         = "Belagavi, Karnataka, India 🇮🇳"
-    education    = "BTech — AI & Data Science @ VTU (2024–Present)"
+    callsign   = "pixelcrisscross"
+    education  = "BTech — AI & Data Science @ VTU Belagavi (2024–Present)"
 
-    current_missions = [
-        "🛸  Multi-agent AI orchestration pipelines",
-        "📞  Real-time telephony voice assistants",
-        "🩺  Health-tech & social-impact platforms",
+    building   = [
+        "Multi-agent AI orchestration pipelines",
+        "Real-time telephony voice assistants",
+        "Health-tech & social-impact platforms",
     ]
 
-    role_in_base = [
-        "🧑‍💻  Community Organizer — GDG on Campus, VTU",
-        "🔭  Club Lead — Cosmic Calculus & Astronomy Club",
+    community  = [
+        "Community Organizer — GDG on Campus, VTU",
+        "Club Lead — Cosmic Calculus & Astronomy Club, VTU",
     ]
 
-    stack_of_choice = ["Python", "Gemini API", "GCP", "FastAPI", "React"]
-
-    fun_fact = (
+    fun_fact   = (
         "I photograph galaxies and build AI systems. "
-        "Both involve seeing what's invisible to most. 🌌"
+        "Both involve seeing what's invisible to most."
     )
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
-## 🛰️ MISSION LOG · Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Autonomous Supply Chain Agent
+**🤖 Autonomous Supply Chain Agent**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_Flash-8E75B2?style=flat-square&logo=google&logoColor=white)
-![AlloyDB](https://img.shields.io/badge/AlloyDB_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+`Python` `Gemini Flash` `AlloyDB AI` `Vertex AI`
 
-Multi-agent pipeline with **vision-based inventory analysis** and **ScaNN vector search** over millions of parts — near-zero latency. Live orchestration via a WebSocket UI.
+Multi-agent pipeline with vision-based inventory analysis and ScaNN vector search over millions of parts. Live orchestration via a WebSocket UI.
 
-📅 `March 2026`
+*March 2026*
 
 </td>
 <td width="50%" valign="top">
 
-### 📞 Conversational AI Voice Agent
+**📞 Conversational AI Voice Agent**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP STT](https://img.shields.io/badge/Cloud_STT%2FTTS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Asterisk](https://img.shields.io/badge/Asterisk-FF6600?style=flat-square&logo=asterisk&logoColor=white)
+`FastAPI` `Docker` `Google Cloud STT/TTS` `Asterisk`
 
-Real-time telephony assistant bridging **Asterisk + Google Cloud Speech APIs**. Containerized backend channels live transcriptions through **Gemini Pro**.
+Real-time telephony assistant bridging Asterisk with Google Cloud Speech APIs. Containerized backend channels transcriptions through Gemini Pro.
 
-📅 `March – April 2026`
+*March – April 2026*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 SheCares AI Health Companion
+**🩺 SheCares AI Health Companion**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+`React` `TypeScript` `FastAPI` `Scikit-learn` `Gemini API`
 
-Full-stack platform with **multimodal AI chat**, vision-based nutritional analysis, custom ML cycle-prediction model, and one-click SOS geolocation.
+Full-stack platform with multimodal AI chat, vision-based nutritional analysis, custom ML cycle-prediction model, and one-click SOS geolocation.
 
-📅 `August – November 2025`
+*August – November 2025*
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ CareerSync Discovery Platform
+**🗺️ CareerSync Discovery Platform**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AI APIs](https://img.shields.io/badge/AI_APIs-FF6B35?style=flat-square&logo=openai&logoColor=white)
+`React` `Node.js` `AI APIs` `Geolocation`
 
-Hyper-local platform connecting users to verified jobs, government schemes & skill programs via **AI-driven personalization** and geographic filtering.
+Hyper-local platform connecting users to verified jobs, government schemes and skill programs via AI-driven personalization and geographic filtering.
 
-📅 `November 2025`
+*November 2025*
 
 </td>
 </tr>
@@ -156,11 +100,11 @@ Hyper-local platform connecting users to verified jobs, government schemes & ski
 
 ---
 
-## ⚙️ TECH LOADOUT
+## Tech Stack
 
 <div align="center">
 
-**› Languages ‹**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -169,31 +113,31 @@ Hyper-local platform connecting users to verified jobs, government schemes & ski
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**› AI / ML ‹**
+**AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-**› Frameworks ‹**
+**Frameworks**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**› Cloud & Databases ‹**
+**Cloud & Databases**
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![AlloyDB](https://img.shields.io/badge/AlloyDB-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**› DevOps & Infra ‹**
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -204,149 +148,75 @@ Hyper-local platform connecting users to verified jobs, government schemes & ski
 
 ---
 
-## 📡 SIGNAL STRENGTH · GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pixelcrisscross&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcrisscross&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pixelcrisscross&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcrisscross&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelcrisscross&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=a78bfa" width="55%"/>
+<img width="480" src="https://streak-stats.demolab.com?user=pixelcrisscross&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
 ---
 
-## 🕹️ CONTRIBUTION MAP · Pac-Man Mode
+## Contribution Graph
 
 <div align="center">
 
-> 🔧 **Setup required:** Add the workflow below (`.github/workflows/pacman.yml`) to your profile repo to activate Pac-Man.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixelcrisscross&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b35&hide_border=true&area=true)
 
-<!-- This SVG is auto-generated by the GitHub Action below. -->
+</div>
+
+---
+
+## Pac-Man Contributions
+
+<div align="center">
+
+> Run `.github/workflows/pacman.yml` once to generate this animation.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixelcrisscross/pixelcrisscross/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixelcrisscross/pixelcrisscross/output/github-contribution-grid-snake.svg"/>
-  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/pixelcrisscross/pixelcrisscross/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pixelcrisscross/pixelcrisscross/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## Leadership
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixelcrisscross&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b35&hide_border=true&area=true&area_color=a78bfa)
-
-</div>
-
----
-
-## 🌌 CREW MANIFEST · Leadership
-
-<div align="center">
-
-| 🚀 Role | 🏢 Organisation | 📅 Period |
-|:--------|:----------------|:----------|
-| 🧑‍💻 **Community Organizer** | Google Developer Group on Campus, VTU | Aug 2025 – Present |
-| 🔭 **Club Lead** | Cosmic Calculus & Astronomy Club, VTU | Aug 2024 – Present |
-| 🤖 **ML Intern** | Caprae Capital Partners, Glendale CA | Sep – Oct 2025 |
-
-</div>
+| Role | Organisation | Period |
+|------|-------------|--------|
+| 🧑‍💻 Community Organizer | Google Developer Group on Campus, VTU | Aug 2025 – Present |
+| 🔭 Club Lead | Cosmic Calculus & Astronomy Club, VTU | Aug 2024 – Present |
+| 🤖 ML Intern | Caprae Capital Partners, Glendale CA | Sep – Oct 2025 |
 
 ---
 
-## 🌠 BEYOND THE CODE
+## Beyond the Code
 
-<div align="center">
-
-```
-        *    .  *       .           *        .       *
-   .              *          .           *
-         .    🌌              .    .          .        *
-  *           Beyond every model, every endpoint,        .
-       .      there is a universe worth understanding.  
-  .                  *               .          *
-       *      .            .    ✦     .    *
-  .                  *          .          .      *
-```
-
-</div>
-
-I lead the **Cosmic Calculus & Astronomy Club** at VTU — where we do real **astrophotography sessions** and unpack the math behind the cosmos.
+I lead the **Cosmic Calculus & Astronomy Club** at VTU — where we run hands-on astrophotography sessions and explore the math behind the cosmos.
 
 Because understanding intelligence — artificial or cosmic — starts with *looking up.* 🌌
 
----
-
-## 🛸 CURRENT ORBIT · What I'm Exploring
-
-```
-[ ████████████░░░░░░░░ ]  60%  Advanced multi-agent frameworks & orchestration
-[ ███████████████░░░░░ ]  75%  Google Cloud Professional certification path  
-[ ████████░░░░░░░░░░░░ ]  40%  Astrophotography deep-sky imaging techniques
-[ █████████████░░░░░░░ ]  65%  Real-time AI voice & NLP pipelines
-```
+> *"The universe is under no obligation to make sense to you."* — Neil deGrasse Tyson
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a0533,70:302b63,100:0d0630&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*Thanks for stopping by — let's build something extraordinary.*
 
 <br/>
 
-**⋆ ˚｡⋆ You've reached the edge of known space. ⋆ ˚｡⋆**
-
-*Thanks for drifting by — let's build something the universe hasn't seen yet.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushannigeri)
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushannigeri)
 
 </div>
-
----
-
-<!--
-════════════════════════════════════════════════════════
- PAC-MAN WORKFLOW — Save as .github/workflows/pacman.yml
-════════════════════════════════════════════════════════
-
-name: Pac-Man Contributions
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake / pac-man SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to `output` branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-════════════════════════════════════════════════════════
--->
