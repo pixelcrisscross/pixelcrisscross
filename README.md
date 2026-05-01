@@ -140,12 +140,16 @@ Hyper-local platform connecting users to verified jobs, government schemes, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pixelcrisscross&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcrisscross&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=pixelcrisscross&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 
-<br/>
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcrisscross&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelcrisscross&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa" width="50%"/>
+  <br/>
+
+  <img width="480"
+       src="https://streak-stats.demolab.com?user=pixelcrisscross&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" />
 
 <br/><br/>
 
