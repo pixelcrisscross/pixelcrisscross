@@ -1,4 +1,4 @@
-HI, I’m **Piyush Annigeri** (`pixelcrisscross`) — a **BTech (AI & Data Science)** student at **VTU Belagavi** focused on:
+### HI, I’m **Piyush Annigeri** (`pixelcrisscross`) — a **BTech (AI & Data Science)** student at **VTU Belagavi** focused on:
 
 - **Multi-agent AI systems** (planning, tool use, orchestration)
 - **Real-time voice/telephony assistants** (streaming STT/TTS, low-latency pipelines)
@@ -83,25 +83,6 @@ Hyper-local discovery for verified jobs, schemes, and skill programs with AI-dri
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=pixelcrisscross&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=21600&v=1" />
-
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcrisscross&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=21600&v=1" />
-
-  <br/>
-
-  <img width="480"
-       src="https://streak-stats.demolab.com?user=pixelcrisscross&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&v=1" />
-
-</div>
-
----
-
 ## Leadership
 
 - **Community Organizer** — Google Developer Group on Campus, VTU (Aug 2025 – Present)  
@@ -114,11 +95,3 @@ Hyper-local discovery for verified jobs, schemes, and skill programs with AI-dri
 
 I lead the **Cosmic Calculus & Astronomy Club** at VTU — we run hands-on astrophotography sessions and explore the math behind the cosmos.  
 I like building AI systems for the same reason I like photographing galaxies: both reward patience, precision, and curiosity.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
-
-</div>
